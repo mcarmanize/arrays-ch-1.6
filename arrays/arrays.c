@@ -2,6 +2,7 @@
 
 main()
 {
+	/* count digits, whitespace, others */
 	int c, i, nwhite, nother;
 	int ndigit[10];
 
